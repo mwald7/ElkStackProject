@@ -4,6 +4,7 @@ Project 1 Files
 
 The files in this repository were used to configure the network depicted below.
 
+![Project 1 - Network Diagram drawio](https://user-images.githubusercontent.com/90293387/148693942-d0b48c92-f1d6-4788-b3de-84e2e55de217.png)
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
@@ -77,8 +78,6 @@ The playbook implements the following tasks:
 - Install Python-pip
 - Install docker container
 - Launch docker container
-
-The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
 
 ### Target Machines & Beats
